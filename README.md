@@ -1,3 +1,3 @@
 # Introducción a Regex
 
-Capacitación confeccionada para introducir la limpieza de texto, en el caso particular de direcciones, usando expresiones regulares.
+Capacitación confeccionada para introducir limpieza de textos, en el caso particular de direcciones, usando expresiones regulares.
